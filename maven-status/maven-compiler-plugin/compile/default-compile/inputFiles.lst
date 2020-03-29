@@ -1,0 +1,9 @@
+/Users/venkata.sabbella/Downloads/conference-demo/src/main/java/com/myspringboot/conferencedemo/controllers/SessionsController.java
+/Users/venkata.sabbella/Downloads/conference-demo/src/main/java/com/myspringboot/conferencedemo/repositories/SessionRepository.java
+/Users/venkata.sabbella/Downloads/conference-demo/src/main/java/com/myspringboot/conferencedemo/config/PersistenceConfiguration.java
+/Users/venkata.sabbella/Downloads/conference-demo/src/main/java/com/myspringboot/conferencedemo/controllers/SpeakersController.java
+/Users/venkata.sabbella/Downloads/conference-demo/src/main/java/com/myspringboot/conferencedemo/models/Speaker.java
+/Users/venkata.sabbella/Downloads/conference-demo/src/main/java/com/myspringboot/conferencedemo/models/Session.java
+/Users/venkata.sabbella/Downloads/conference-demo/src/main/java/com/myspringboot/conferencedemo/controllers/HomeController.java
+/Users/venkata.sabbella/Downloads/conference-demo/src/main/java/com/myspringboot/conferencedemo/repositories/SpeakerRepository.java
+/Users/venkata.sabbella/Downloads/conference-demo/src/main/java/com/myspringboot/conferencedemo/ConferenceDemoApplication.java
